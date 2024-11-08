@@ -1,4 +1,4 @@
-# Hi! I'm Verónica Irazuzta 
+# Hi! I'm Verónica 
 
 I am a **Business Administration and Management** graduate, with 9 years of working experience, and currently pursuing a **Master's in Data Science**.
 
