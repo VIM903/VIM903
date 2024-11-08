@@ -16,7 +16,7 @@ My **goal** is to combine my expertise in business management with my newly acqu
 
 With **9 years of experience** in **business and administration**, I have specialized in in working with data. 
 
--Currently working in the **pharmaceutical sector**.
+- Currently working in the **pharmaceutical sector**.
 
 ## 💻 Currently learning
 - **Programming Languages**: Python
