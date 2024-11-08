@@ -1,6 +1,6 @@
 # Hi! I'm Verónica 
 
-I am a **Business Administration and Management** graduate, with 9 years of professional experience, and currently pursuing a **Master's in Data Science**.
+I am a **Business Administration and Management** graduate, with 9 years of working experience, and currently pursuing a **Master's in Data Science**.
 
 My **goal** is to combine my expertise in business management with my newly acquired skills in data science to bring innovative solutions.
 
